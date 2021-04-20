@@ -7,7 +7,7 @@ Me chamo Rodrigo Modesto Câmara Queiroz,sou graduando em Sistemas de Informaç�
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=RodrigoModesto33&repo=RodrigoModesto33&countColorcountColor)
 
 ### Languages & Tools 🛠  
-<p><img src="https://emojis.slackmojis.com/emojis/images/1520330049/3616/js.png?1520330049></p>
+<p><img src="https://emojis.slackmojis.com/emojis/images/1520330049/3616/js.png?1520330049" width="30"/></p>
 
 ### Analytics ⚙️
 
